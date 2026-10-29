@@ -2,6 +2,8 @@
 
 ### Systems engineering · Cloud infrastructure · AI automation
 
+![Animated banner: Building infrastructure, automating workflows, connecting AI to business tools](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1200&color=38BDF8&width=650&height=45&lines=Building+infrastructure.;Automating+the+repetitive+work.;Connecting+AI+to+everyday+business+tools.)
+
 I build and run infrastructure, connect business systems, and automate the work between them. My background spans hardware repair, global production support, and hands-on engineering for small businesses.
 
 Today, I work independently on self-hosted platforms, cloud deployments, and AI-powered workflows—from provisioning virtual machines to giving teams a natural-language interface for their everyday tools.
@@ -23,6 +25,16 @@ GPT-powered agents for managing project work through natural language, OCR and R
 Client CRM systems, Python + n8n ETL pipelines into replicated PostgreSQL, and CI/CD with GitHub Actions and Forgejo/Woodpecker CI.
 
 ### My toolkit
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,cloudflare,linux,windows&theme=dark" alt="AWS, Azure, Google Cloud, Cloudflare, Linux, and Windows" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,githubactions,git&theme=dark" alt="Docker, Kubernetes, Terraform, Ansible, GitHub Actions, and Git" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,powershell,bash,postgres,mysql,grafana&theme=dark" alt="Python, PowerShell, Bash, PostgreSQL, MySQL, and Grafana" />
+</p>
 
 | Area | Tools I work with |
 | --- | --- |
